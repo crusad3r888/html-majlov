@@ -1,0 +1,41 @@
+.navbar ul {
+    overflow: hidden;
+    background-color: gray;
+}
+.navbar li {
+    float: left;
+    display: block;
+    margin: 15px;
+    color: black;
+    font-size: 25px;
+}
+a {
+    text-decoration: none;
+}
+.scorpion-tech {
+    font-size: 50px;
+}
+div {
+    position: relative;
+    top: 12px;
+}
+.info {
+    background-color: #b5adac;
+    margin-top: 70%;
+    border: 1px solid white;
+    border-width: 100%;
+}
+.Heterometrus {
+    border: 1px solid white;
+    width: 300px;
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 20%;
+}
+h2 {
+    color: black;
+    font-size: 30px;
+}
+li {
+    font-size: 20px;
+}
